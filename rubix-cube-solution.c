@@ -1,5 +1,11 @@
 /*Rubix Cube*/
 
+/*;==========================================
+  ; Title:  Rubix Cube Solution
+  ; Author: Manel Kheffache & Bilal Si Said
+  ; Date:   8 Feb 2022
+  ;========================================== */
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
